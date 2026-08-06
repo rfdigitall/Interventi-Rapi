@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Disallow: /grazie.html
+Disallow: /privacy.html
+Disallow: /cookie.html
+
+Sitemap: https://interventi-rapidi.it/sitemap.xml
